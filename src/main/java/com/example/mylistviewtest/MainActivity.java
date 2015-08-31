@@ -22,7 +22,7 @@ public class MainActivity extends Activity implements OnClickListener{
         button3=(Button)this.findViewById(R.id.button3);
         button4=(Button)this.findViewById(R.id.button4);
         button5=(Button)this.findViewById(R.id.button5);
-        //最后合并的
+        //最后合并的是吗
         button1.setOnClickListener(this);
         button2.setOnClickListener(this);
         //我再次添加的注释
