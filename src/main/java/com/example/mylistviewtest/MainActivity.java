@@ -12,6 +12,7 @@ import android.widget.Button;
 
 public class MainActivity extends Activity implements OnClickListener{
     private Button button1,button2,button3,button4,button5;
+    //初始化按钮
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
