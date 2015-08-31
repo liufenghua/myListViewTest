@@ -24,6 +24,7 @@ public class MainActivity extends Activity implements OnClickListener{
         button5=(Button)this.findViewById(R.id.button5);
         button1.setOnClickListener(this);
         button2.setOnClickListener(this);
+        //我再次添加的注释
         button3.setOnClickListener(this);
         button4.setOnClickListener(this);
         button5.setOnClickListener(this);
