@@ -26,6 +26,7 @@ public class MainActivity extends Activity implements OnClickListener{
         button3.setOnClickListener(this);
         button4.setOnClickListener(this);
         button5.setOnClickListener(this);
+        //xinzengjiadezhushi
     }
 
     @Override
