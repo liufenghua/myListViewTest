@@ -16,6 +16,7 @@ public class MainActivity extends Activity implements OnClickListener{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //xinzengjiadezhushi
         button1=(Button)this.findViewById(R.id.button1);
         button2=(Button)this.findViewById(R.id.button2);
         button3=(Button)this.findViewById(R.id.button3);
